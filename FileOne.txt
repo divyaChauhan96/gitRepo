@@ -1,8 +1,0 @@
-First File Text
-
-1. Line just to push
-hello 
-hi
-abc
-
-renamed
